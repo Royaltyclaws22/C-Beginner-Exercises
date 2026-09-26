@@ -63,8 +63,6 @@ Enter the first number: 12.5
 Enter the second number: 4
 
 Select an operation (+, -, *, /): *
-
-Result (Multiplication): 50.000
 ```
 
 The program checks:
