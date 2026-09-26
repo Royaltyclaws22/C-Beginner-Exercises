@@ -4,7 +4,7 @@ A simple C console application that performs basic arithmetic operations on two 
 
 
 ## 🔎 Preview
-
+<img width="1280" height="679" alt="Simple_Calculator" src="https://github.com/user-attachments/assets/849a427d-5d1e-4d5f-8d39-5ac4ebeff94f" />
 
 
 ## ⚙️ Features
