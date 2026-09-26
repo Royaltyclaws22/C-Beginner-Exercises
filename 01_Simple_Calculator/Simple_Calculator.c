@@ -57,6 +57,7 @@ int main(void)
             printf("\nResult (Division): %.3f\n", result);
         }
         break;
+        
     default:
         printf("\nError: Invalid operation selected.\n");
         break;
